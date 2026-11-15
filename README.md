@@ -68,3 +68,14 @@ Discord недоступен, а хочется собраться своей к
 [Условия использования](USAGE_TERMS.md) · [Сторонние компоненты и лицензии](THIRD_PARTY_NOTICES.md)
 
 Lzhecord — самостоятельный проект, не связанный с Discord Inc. Discord и Nitro упоминаются для объяснения назначения приложения.
+
+## Поддержать автора
+
+Если Lzhecord оказался полезен, можно поддержать его развитие. Поддержка добровольная — приложение остаётся бесплатным.
+
+**[Поддержать через DonationAlerts](https://www.donationalerts.com/r/evanc0)**
+
+| Валюта и сеть | Адрес |
+| --- | --- |
+| USDT · TRON (TRC20) | `THpbMdkwDK9ZH37z4HBcNR94gUBjcHTo5z` |
+| USDT · Ethereum (ERC20) | `0x3409CE6eA17D966b34c6C979A8E164D5f7a1b660` |
