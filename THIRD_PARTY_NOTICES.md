@@ -18,3 +18,7 @@ Radmin VPN устанавливается отдельно и не входит 
 - **MediaMTX 1.21.4**, MIT: [релиз и исходный код](https://github.com/bluenviron/mediamtx/releases/tag/v1.21.4), [лицензия](https://github.com/bluenviron/mediamtx/blob/v1.21.4/LICENSE). Локальный компонент передачи готового потока через WebRTC.
 
 Нативные API Windows и NVENC требуют совместимых драйверов и оборудования. Названия NVIDIA и Windows принадлежат соответствующим правообладателям.
+
+## Совместимый пакет в 0.9.0
+
+Для NVIDIA с драйверами 570–609 и для экспериментальных AMD AMF / Intel Quick Sync приложение по требованию загружает **FFmpeg LGPL shared 8.1**, сборка n8.1.3-35-gf1acb0a266: [upstream-релиз](https://github.com/FFmpeg-Builds/FFmpeg-Builds/releases/tag/autobuild-2026-11-15-12-40), [исходный код FFmpeg](https://github.com/FFmpeg/FFmpeg/tree/f1acb0a266). Проверяется закреплённый SHA-256. Лицензии, уведомления и библиотеки остаются в каталоге пакета. Пакет не входит в архив Lzhecord.
