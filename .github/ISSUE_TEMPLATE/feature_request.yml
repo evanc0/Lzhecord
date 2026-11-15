@@ -1,0 +1,17 @@
+name: Предложить улучшение
+description: Идея для удобства, звука или трансляций
+title: "[Идея] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Что сейчас неудобно?
+      description: Опишите конкретную ситуацию.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Какое поведение хотелось бы получить?
+    validations:
+      required: true

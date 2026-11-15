@@ -1,0 +1,2 @@
+d04884d452d9473c84c6a288a80b85660f09ddc1a2a52fd8afd792ca3e4720fa  Lzhecord-Desktop-0.7.0-win-x64.zip
+ecb213cfa103c78bada704186c7a1bb3852b54b026b06920d1f8b142328935d5  Lzhecord-Radmin-0.6.3.zip

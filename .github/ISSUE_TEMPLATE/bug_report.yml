@@ -1,0 +1,35 @@
+name: Сообщить об ошибке
+description: Проблема с запуском, голосом или трансляцией
+title: "[Ошибка] "
+body:
+  - type: markdown
+    attributes:
+      value: "Сначала проверьте [частые вопросы](https://github.com/evanc0/Lzhecord/blob/main/docs/FAQ.md). Не прикладывайте пароли VPN, папку data, профиль браузера или чужие личные данные."
+  - type: dropdown
+    id: version
+    attributes:
+      label: Версия приложения
+      options:
+        - 0.7.0 — desktop EXE
+        - 0.6.3 — браузерный вариант
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Версия Windows и видеокарта
+      placeholder: Например Windows 11 x64, RTX 2060
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Как воспроизвести
+      description: Шаги, ожидаемый результат и что произошло вместо него. Для захвата укажите основной/резервный способ и монитор/окно.
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Ошибка и диагностика
+      description: Текст ошибки или обезличенный отчёт из приложения. Просмотрите файлы и скриншоты перед отправкой.
