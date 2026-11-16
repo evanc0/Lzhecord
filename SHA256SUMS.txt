@@ -1,3 +1,4 @@
+0690cf10b2bdaae72a3f7238d9649aad2d8645d959c978bc2c5ef0329d1c3af5  Lzhecord-Desktop-0.9.1-win-x64.zip
 2f0bb5fe44f30fec4221ae3a7d8af5033db2569bd85966b25eb49dc3b22016a8  Lzhecord-Desktop-0.9.0-win-x64.zip
 cd2d0bd7e647ee4a83b0481ee356d02f61d6f93c12f308d091844a6c3482e9c4  Lzhecord-Desktop-0.8.2-win-x64.zip
 2a3b3f7058647c52b0d8f375b504f7878fa28094abdb2f182b0988ff954618bd  Lzhecord-Desktop-0.8.1-win-x64.zip
